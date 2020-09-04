@@ -1,2 +1,2 @@
-# Binary To Text Convertor Encoder
-A simple tool to encode URLs online
+# Binary To Text Converter
+A simple tool to convert binary to text online.
